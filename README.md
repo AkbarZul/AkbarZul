@@ -1,5 +1,6 @@
-### Hi there. Welcome to my profile 👋
 ### Akbar Zulfikar - AkbarZul
+
+Hi there, I'm a Akbar
 
 <!--
 **AkbarZul/AkbarZul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
