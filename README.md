@@ -19,12 +19,13 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
 </p>
 
-<h3>Where to find me</h3>
+## Where to find me
 <p><a href="https://github.com/AkbarZul" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/akbrzulfikar" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/akbar-zulfikar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=AkbarZul&show_icons=true&count_private=true&theme=white" />
 
-
+## Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkbarZul&layout=compact" />
 
